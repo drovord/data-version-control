@@ -1,5 +1,7 @@
 [core]
     analytics = false
     remote = remote_storage
+[cache]
+    dir = /Users/drov/shared_cache
 ['remote "remote_storage"']
     url = /Users/drov/dvc_remote
